@@ -44,7 +44,7 @@
 
 ### 🔥 Favorite Project
 
-- [Chat Web App](#)  
+- [Chat Web App](https://chatbird-28dg.onrender.com/)  
   Real-time chat application built with MERN stack and Socket.io.  
   (DM me for the demo or check on my portfolio!)
 
