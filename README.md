@@ -18,7 +18,7 @@
 
 - 💻 I’m a dedicated **MERN Stack Developer** who loves building scalable web applications.
 - 🌱 Currently expanding my knowledge in **Next.js**, **TypeScript**, and exploring UI/UX with **Figma**.
-- 🛠️ I have hands-on experience with **MongoDB, Express, React, Node.js, Tailwind CSS, HTML, CSS, Socket.io, and Git**.
+- 🛠️ I have hands-on experience with **MongoDB, Express, React, Node.js, Tailwind CSS, HTML, CSS**.
 - 🎨 I’m comfortable working with **Bootstrap** and managing designs on **Figma**.
 - 🗨️ I’m the proud creator of a real-time **Chat Web App**!
 
